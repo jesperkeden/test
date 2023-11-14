@@ -3,8 +3,9 @@ name: My special workflow
 on: workflow_dispatch
 
 jobs:
-  my-amazin-job:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Testing testing"
-      - run: echo "Testing testing done"
+      - run: echo "Trying to build project"
+      - name: Run build
+        run: npm run build
