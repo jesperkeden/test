@@ -1,0 +1,10 @@
+name: My special workflow
+
+on: workflow_dispatch
+
+jobs:
+  my-amazin-job:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Testing testing"
+      - run: echo "Testing testing done"
