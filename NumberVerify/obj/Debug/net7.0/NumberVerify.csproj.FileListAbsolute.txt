@@ -1,0 +1,14 @@
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\NumberVerify\bin\Debug\net7.0\NumberVerify.exe
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\NumberVerify\bin\Debug\net7.0\NumberVerify.deps.json
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\NumberVerify\bin\Debug\net7.0\NumberVerify.runtimeconfig.json
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\NumberVerify\bin\Debug\net7.0\NumberVerify.dll
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\NumberVerify\bin\Debug\net7.0\NumberVerify.pdb
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\NumberVerify\obj\Debug\net7.0\NumberVerify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\NumberVerify\obj\Debug\net7.0\NumberVerify.AssemblyInfoInputs.cache
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\NumberVerify\obj\Debug\net7.0\NumberVerify.AssemblyInfo.cs
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\NumberVerify\obj\Debug\net7.0\NumberVerify.csproj.CoreCompileInputs.cache
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\NumberVerify\obj\Debug\net7.0\NumberVerify.dll
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\NumberVerify\obj\Debug\net7.0\refint\NumberVerify.dll
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\NumberVerify\obj\Debug\net7.0\NumberVerify.pdb
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\NumberVerify\obj\Debug\net7.0\NumberVerify.genruntimeconfig.cache
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\NumberVerify\obj\Debug\net7.0\ref\NumberVerify.dll

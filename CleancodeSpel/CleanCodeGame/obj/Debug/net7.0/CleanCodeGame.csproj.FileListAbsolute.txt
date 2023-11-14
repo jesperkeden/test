@@ -1,0 +1,14 @@
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\CleanCodeGame\obj\Debug\net7.0\CleanCodeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\CleanCodeGame\obj\Debug\net7.0\CleanCodeGame.AssemblyInfoInputs.cache
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\CleanCodeGame\obj\Debug\net7.0\CleanCodeGame.AssemblyInfo.cs
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\CleanCodeGame\obj\Debug\net7.0\CleanCodeGame.csproj.CoreCompileInputs.cache
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\CleanCodeGame\bin\Debug\net7.0\CleanCodeGame.exe
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\CleanCodeGame\bin\Debug\net7.0\CleanCodeGame.deps.json
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\CleanCodeGame\bin\Debug\net7.0\CleanCodeGame.runtimeconfig.json
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\CleanCodeGame\bin\Debug\net7.0\CleanCodeGame.dll
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\CleanCodeGame\bin\Debug\net7.0\CleanCodeGame.pdb
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\CleanCodeGame\obj\Debug\net7.0\CleanCodeGame.dll
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\CleanCodeGame\obj\Debug\net7.0\refint\CleanCodeGame.dll
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\CleanCodeGame\obj\Debug\net7.0\CleanCodeGame.pdb
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\CleanCodeGame\obj\Debug\net7.0\CleanCodeGame.genruntimeconfig.cache
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\CleanCodeGame\obj\Debug\net7.0\ref\CleanCodeGame.dll

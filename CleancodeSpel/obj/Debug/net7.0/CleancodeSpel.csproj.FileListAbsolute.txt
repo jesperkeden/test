@@ -1,0 +1,14 @@
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\bin\Debug\net7.0\CleancodeSpel.exe
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\bin\Debug\net7.0\CleancodeSpel.deps.json
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\bin\Debug\net7.0\CleancodeSpel.runtimeconfig.json
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\bin\Debug\net7.0\CleancodeSpel.dll
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\bin\Debug\net7.0\CleancodeSpel.pdb
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\obj\Debug\net7.0\CleancodeSpel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\obj\Debug\net7.0\CleancodeSpel.AssemblyInfoInputs.cache
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\obj\Debug\net7.0\CleancodeSpel.AssemblyInfo.cs
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\obj\Debug\net7.0\CleancodeSpel.csproj.CoreCompileInputs.cache
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\obj\Debug\net7.0\CleancodeSpel.dll
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\obj\Debug\net7.0\refint\CleancodeSpel.dll
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\obj\Debug\net7.0\CleancodeSpel.pdb
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\obj\Debug\net7.0\CleancodeSpel.genruntimeconfig.cache
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\CleancodeSpel\obj\Debug\net7.0\ref\CleancodeSpel.dll

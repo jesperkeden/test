@@ -1,0 +1,14 @@
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\BankApp\bin\Debug\net7.0\BankApp.exe
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\BankApp\bin\Debug\net7.0\BankApp.deps.json
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\BankApp\bin\Debug\net7.0\BankApp.runtimeconfig.json
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\BankApp\bin\Debug\net7.0\BankApp.dll
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\BankApp\bin\Debug\net7.0\BankApp.pdb
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\BankApp\obj\Debug\net7.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\BankApp\obj\Debug\net7.0\BankApp.AssemblyInfoInputs.cache
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\BankApp\obj\Debug\net7.0\BankApp.AssemblyInfo.cs
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\BankApp\obj\Debug\net7.0\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\BankApp\obj\Debug\net7.0\BankApp.dll
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\BankApp\obj\Debug\net7.0\refint\BankApp.dll
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\BankApp\obj\Debug\net7.0\BankApp.pdb
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\BankApp\obj\Debug\net7.0\BankApp.genruntimeconfig.cache
+C:\Users\jespe\OneDrive\System22\07.Cleancode\EgetArbete\BankApp\obj\Debug\net7.0\ref\BankApp.dll
